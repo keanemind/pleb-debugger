@@ -1,0 +1,23 @@
+{
+  "name": "pleb-debugger",
+  "version": "0.0.0",
+  "description": "PDB: a print debugger for plebs by plebs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keanemind/pleb-debugger.git"
+  },
+  "author": "Keane Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keanemind/pleb-debugger/issues"
+  },
+  "homepage": "https://github.com/keanemind/pleb-debugger#readme",
+  "devDependencies": {
+    "electron": "^3.0.13"
+  }
+}
